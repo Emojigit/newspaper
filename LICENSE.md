@@ -1,3 +1,6 @@
+## Media
+ - book: Gambit (CC BY-SA 3.0)
+## The Code
 MIT License
 
 Copyright (c) 2020 Emojigit
